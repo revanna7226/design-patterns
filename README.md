@@ -6,6 +6,8 @@ Instructor: [Dmitri Nesteruk](https://www.udemy.com/course/design-patterns-java/
 
 ## Solid Design Principles
 
+Reference: https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/
+
 1. [Single Responsibility Principle - SRP](/notes/design-principles/SRP.md)
 2. [Open-Closed Principle -OSP](/notes/design-principles/OCP.md.md)
 3. [Linkov Substitution Principle - LSP](/notes/design-principles/LSP.md)

@@ -1,5 +1,11 @@
 # Linkov Substitution Principle - LSP
 
+> The Liskov Substitution Principle states: “If S is a subtype of T, then objects of type T may be replaced with objects of type > S without altering any of the desirable properties of the program (correctness, task performed, etc.).”
+>
+> In simpler terms, any implementation of an abstraction (interface) should be substitutable anywhere that abstraction is accepted.
+>
+> Reference: https://medium.com/@ahmedtahaelelemy/understanding-the-liskov-substitution-principle-a-deep-dive-into-solid-principles-b02ac6a18ee3
+
 ```java
 package com.activemesa.solid.lsp;
 

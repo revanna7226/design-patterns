@@ -1,5 +1,7 @@
 # Open-Closed Principle - OSP
 
+Reference: https://www.geeksforgeeks.org/open-closed-principle-in-java-with-examples/
+
 ```java
 package com.activemesa.solid.ocp;
 
