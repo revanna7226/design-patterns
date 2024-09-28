@@ -1,5 +1,9 @@
 # Open-Closed Principle - OSP
 
+OSP + Specification
+
+Open for Extension and closed for Modification
+
 Reference: https://www.geeksforgeeks.org/open-closed-principle-in-java-with-examples/
 
 ```java

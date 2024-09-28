@@ -2,6 +2,8 @@
 
 Reference: https://www.geeksforgeeks.org/single-responsibility-principle-in-java-with-examples/
 
+Class should have one reason to change or should have one single responsibility.
+
 ```java
 package com.activemesa.solid.srp;
 
