@@ -1,1 +1,2 @@
 sphinx-docs/_build/*
+sphinx-docs/sphinx-venv/*
