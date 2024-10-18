@@ -17,7 +17,7 @@ setup:
 	pip3 install sphinx_rtd_theme
 	pip3 install sphinx_copybutton
 	pip3 install sphinx_code_tabs
-	pip3 install sphinx_code
+	pip3 install sphinx_tabs
 	pip3 install esbonio
 	pip3 install recommonmark
 
