@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'My Notes'
+project = 'My Tech Notes'
 copyright = '2024, Revannaswamy N'
 author = 'Revannaswamy N'
 release = '1.0'

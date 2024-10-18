@@ -19,5 +19,5 @@ Git & GitHub - The Practical Guide
    :caption: Contents
 
    installation
-   commands
+   operations
    reference
