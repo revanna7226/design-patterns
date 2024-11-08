@@ -20,4 +20,6 @@ Git & GitHub - The Practical Guide
 
    installation
    operations
+   github
+   assignment
    reference

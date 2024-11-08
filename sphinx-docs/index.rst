@@ -7,3 +7,4 @@ Revs Notes
    
    docs/java_design_principle/index
    docs/git/index
+   docs/python/index
